@@ -14,4 +14,8 @@
     <ProjectReference Include="..\Kafka.Consumer.Application\Kafka.Consumer.Application.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
 </Project>
